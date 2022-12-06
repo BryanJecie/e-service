@@ -1,0 +1,80 @@
+{
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "HorizontalMenu": {
+    "description": "Auto imported from components/horizontal-menu.js"
+  },
+  "HorizontalNavbar": {
+    "description": "Auto imported from components/Horizontal-navbar.vue"
+  },
+  "Loading": {
+    "description": "Auto imported from components/Loading.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "Menu": {
+    "description": "Auto imported from components/menu.js"
+  },
+  "PageHeader": {
+    "description": "Auto imported from components/Page-header.vue"
+  },
+  "Portlet": {
+    "description": "Auto imported from components/Portlet.vue"
+  },
+  "Rightbar": {
+    "description": "Auto imported from components/Rightbar.vue"
+  },
+  "Sidebar": {
+    "description": "Auto imported from components/Sidebar.vue"
+  },
+  "Topbar": {
+    "description": "Auto imported from components/Topbar.vue"
+  },
+  "TwoColumnSidebar": {
+    "description": "Auto imported from components/Two-column-sidebar.vue"
+  },
+  "WidgetsCampaigns": {
+    "description": "Auto imported from components/widgets/Campaigns.vue"
+  },
+  "WidgetsChat": {
+    "description": "Auto imported from components/widgets/Chat.vue"
+  },
+  "WidgetsCrmWidget": {
+    "description": "Auto imported from components/widgets/Crm-widget.vue"
+  },
+  "WidgetsInbox": {
+    "description": "Auto imported from components/widgets/Inbox.vue"
+  },
+  "WidgetsMarketingReports": {
+    "description": "Auto imported from components/widgets/Marketing-reports.vue"
+  },
+  "WidgetsProductsSales": {
+    "description": "Auto imported from components/widgets/Products-sales.vue"
+  },
+  "WidgetsProjections": {
+    "description": "Auto imported from components/widgets/Projections.vue"
+  },
+  "WidgetsRecentLeads": {
+    "description": "Auto imported from components/widgets/Recent-leads.vue"
+  },
+  "WidgetsRevenueHistory": {
+    "description": "Auto imported from components/widgets/Revenue-history.vue"
+  },
+  "WidgetsRevenueReport": {
+    "description": "Auto imported from components/widgets/Revenue-report.vue"
+  },
+  "WidgetsRevenue": {
+    "description": "Auto imported from components/widgets/Revenue.vue"
+  },
+  "WidgetsTodo": {
+    "description": "Auto imported from components/widgets/Todo.vue"
+  },
+  "WidgetsTopPerforming": {
+    "description": "Auto imported from components/widgets/Top-performing.vue"
+  },
+  "WidgetsWidgetChart": {
+    "description": "Auto imported from components/widgets/Widget-chart.vue"
+  }
+}

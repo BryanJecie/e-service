@@ -1,3 +1,6 @@
+const APP_NAME = process.env.VUE_APP_NAME || 'E-Service'
+const API_URL = process.env.VUE_API_URL || 'http://127.0.0.1'
+
 export default {
   loading: "~/components/loading.vue",
   router: {
@@ -12,7 +15,8 @@ export default {
   ** Nuxt rendering mode
   ** See https://nuxtjs.org/api/configuration-mode
   */
-  mode: 'spa',
+  // mode: 'spa',
+  ssr: false,
   /*
   ** Nuxt target
   ** See https://nuxtjs.org/api/configuration-target
@@ -73,8 +77,34 @@ export default {
   modules: [
     // Doc: https://bootstrap-vue.js.org
     'bootstrap-vue/nuxt',
-    'nuxt-i18n'
+    'nuxt-i18n',
+    '@nuxtjs/axios',
+    '@nuxtjs/auth-next'
   ],
+
+  axios: {
+    proxy: true,
+    credentials: true,
+    browserBaseURL: API_URL + '/api'
+  },
+
+  auth: {
+    strategies: {
+      laravelSanctum: {
+        provider: 'laravel/sanctum',
+        url: API_URL,
+        endpoints: {
+          login: { url: '/api/login', method: 'post' },
+          user: { url: '/api/user', method: 'get', propertyName: false },
+        },
+        // autoFetchUser: true,
+        // tokenRequired: true,
+        // tokenType: "Bearer"
+
+      }
+    }
+  },
+
   i18n: {
     locales: ['en', 'fr', 'es', 'ar'],
     defaultLocale: 'en',
@@ -94,6 +124,12 @@ export default {
   ** See https://nuxtjs.org/api/configuration-build/
   */
   build: {
+    babel: {
+      compact: true
+    }
+  },
+  generate: {
+    fallback: 'index.html'
   },
   env: {
     auth: process.env.VUE_APP_DEFAULT_AUTH,

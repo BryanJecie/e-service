@@ -84,6 +84,19 @@ export default {
         }
       }
     },
+
+    on_login() {
+      this.$auth
+        .loginWith("laravelSanctum", {
+          data: {
+            email: "admin@admin.com",
+            password: "password",
+          },
+        })
+        .then(() => {
+          this.$axios.get("/user");
+        });
+    },
   },
   layout: "auth",
 };
@@ -91,7 +104,8 @@ export default {
 
 <template>
   <div class="row justify-content-center">
-    <div class="col-md-8 col-lg-6 col-xl-5">
+    <button class="btn btn-primary" @click="on_login">Login sanctum</button>
+    <div class="col-md-8 col-lg-6 col-xl-5" v-if="false">
       <div class="card">
         <div class="card-body p-4">
           <div class="text-center w-75 m-auto">

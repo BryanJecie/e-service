@@ -1,0 +1,3718 @@
+[
+  {
+    "path": "/ar",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  },
+  {
+    "path": "/es",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  },
+  {
+    "path": "/fr",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  },
+  {
+    "name": "widgets___en",
+    "path": "/widgets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_6f39d8d4"
+  },
+  {
+    "name": "account-forgot-password___en",
+    "path": "/account/forgot-password",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_85e838ea"
+  },
+  {
+    "name": "account-login___en",
+    "path": "/account/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_454ba06f"
+  },
+  {
+    "name": "account-register___en",
+    "path": "/account/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_8bd823e6"
+  },
+  {
+    "name": "apps-calendar___en",
+    "path": "/apps/calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_2dd131c2"
+  },
+  {
+    "name": "apps-chat___en",
+    "path": "/apps/chat",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_eafea776"
+  },
+  {
+    "name": "apps-companies___en",
+    "path": "/apps/companies",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\index.vue",
+    "chunkName": "pages/apps/companies/index",
+    "_name": "_5272d348"
+  },
+  {
+    "name": "apps-file-manager___en",
+    "path": "/apps/file-manager",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6ba187a1"
+  },
+  {
+    "name": "apps-tickets___en",
+    "path": "/apps/tickets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\index.vue",
+    "chunkName": "pages/apps/tickets/index",
+    "_name": "_7a224910"
+  },
+  {
+    "name": "widgets___ar",
+    "path": "/ar/widgets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_6f39d8d4"
+  },
+  {
+    "name": "auth-confirm-mail___en",
+    "path": "/auth/confirm-mail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail.vue",
+    "chunkName": "pages/auth/confirm-mail",
+    "_name": "_71583cc2"
+  },
+  {
+    "name": "auth-confirm-mail-2___en",
+    "path": "/auth/confirm-mail-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail-2.vue",
+    "chunkName": "pages/auth/confirm-mail-2",
+    "_name": "_3c4ee704"
+  },
+  {
+    "name": "auth-lock-screen___en",
+    "path": "/auth/lock-screen",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen.vue",
+    "chunkName": "pages/auth/lock-screen",
+    "_name": "_8d062bba"
+  },
+  {
+    "name": "auth-lock-screen-2___en",
+    "path": "/auth/lock-screen-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen-2.vue",
+    "chunkName": "pages/auth/lock-screen-2",
+    "_name": "_4857de88"
+  },
+  {
+    "name": "auth-login___en",
+    "path": "/auth/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_0b04767e"
+  },
+  {
+    "name": "auth-login-2___en",
+    "path": "/auth/login-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login-2.vue",
+    "chunkName": "pages/auth/login-2",
+    "_name": "_562dc023"
+  },
+  {
+    "name": "auth-logout___en",
+    "path": "/auth/logout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout.vue",
+    "chunkName": "pages/auth/logout",
+    "_name": "_bac93c76"
+  },
+  {
+    "name": "auth-logout-2___en",
+    "path": "/auth/logout-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout-2.vue",
+    "chunkName": "pages/auth/logout-2",
+    "_name": "_63b6f5aa"
+  },
+  {
+    "name": "auth-recoverpwd___en",
+    "path": "/auth/recoverpwd",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd.vue",
+    "chunkName": "pages/auth/recoverpwd",
+    "_name": "_8766c2d8"
+  },
+  {
+    "name": "auth-recoverpwd-2___en",
+    "path": "/auth/recoverpwd-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd-2.vue",
+    "chunkName": "pages/auth/recoverpwd-2",
+    "_name": "_53e78a8e"
+  },
+  {
+    "name": "auth-register___en",
+    "path": "/auth/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_4aabacc4"
+  },
+  {
+    "name": "auth-register-2___en",
+    "path": "/auth/register-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register-2.vue",
+    "chunkName": "pages/auth/register-2",
+    "_name": "_5999a97a"
+  },
+  {
+    "name": "auth-signin-signup___en",
+    "path": "/auth/signin-signup",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup.vue",
+    "chunkName": "pages/auth/signin-signup",
+    "_name": "_2bfc7eb8"
+  },
+  {
+    "name": "auth-signin-signup-2___en",
+    "path": "/auth/signin-signup-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup-2.vue",
+    "chunkName": "pages/auth/signin-signup-2",
+    "_name": "_1944a1dd"
+  },
+  {
+    "name": "charts-apex___en",
+    "path": "/charts/apex",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_dfba5110"
+  },
+  {
+    "name": "charts-c3___en",
+    "path": "/charts/c3",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_46a3bbaa"
+  },
+  {
+    "name": "charts-chartist___en",
+    "path": "/charts/chartist",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_127d9a6e"
+  },
+  {
+    "name": "charts-chartjs___en",
+    "path": "/charts/chartjs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_6165f9f3"
+  },
+  {
+    "name": "charts-knob___en",
+    "path": "/charts/knob",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_d3a1fdc4"
+  },
+  {
+    "name": "contacts-list___en",
+    "path": "/contacts/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_f85d19f8"
+  },
+  {
+    "name": "contacts-profile___en",
+    "path": "/contacts/profile",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_46b8d39a"
+  },
+  {
+    "name": "dashboard-analytics___en",
+    "path": "/dashboard/analytics",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_0e13c3dd"
+  },
+  {
+    "name": "dashboard-crm___en",
+    "path": "/dashboard/crm",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_7e4a5576"
+  },
+  {
+    "name": "dashboard-sales___en",
+    "path": "/dashboard/sales",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_540d8b17"
+  },
+  {
+    "name": "ecommerce-cart___en",
+    "path": "/ecommerce/cart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_19ef8fc6"
+  },
+  {
+    "name": "ecommerce-checkout___en",
+    "path": "/ecommerce/checkout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_6705ccc3"
+  },
+  {
+    "name": "ecommerce-customers___en",
+    "path": "/ecommerce/customers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\index.vue",
+    "chunkName": "pages/ecommerce/customers/index",
+    "_name": "_4f0bc34c"
+  },
+  {
+    "name": "ecommerce-data-products___en",
+    "path": "/ecommerce/data-products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_0bc61456"
+  },
+  {
+    "name": "ecommerce-order-detail___en",
+    "path": "/ecommerce/order-detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_cd84f0a6"
+  },
+  {
+    "name": "ecommerce-orders___en",
+    "path": "/ecommerce/orders",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_424b9a20"
+  },
+  {
+    "name": "ecommerce-product-create___en",
+    "path": "/ecommerce/product-create",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_6aea9957"
+  },
+  {
+    "name": "ecommerce-products___en",
+    "path": "/ecommerce/products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_497a9381"
+  },
+  {
+    "name": "ecommerce-products-grid___en",
+    "path": "/ecommerce/products-grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_191c7462"
+  },
+  {
+    "name": "ecommerce-sellers___en",
+    "path": "/ecommerce/sellers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_b2924e32"
+  },
+  {
+    "name": "email-data-inbox___en",
+    "path": "/email/data-inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_d5b2245a"
+  },
+  {
+    "name": "email-inbox___en",
+    "path": "/email/inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_5f6fc2fd"
+  },
+  {
+    "name": "email-sidepanel___en",
+    "path": "/email/sidepanel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_3a212ef8"
+  },
+  {
+    "name": "email-templates___en",
+    "path": "/email/templates",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_5a944ab0"
+  },
+  {
+    "name": "email-toolbar___en",
+    "path": "/email/toolbar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_9138249c"
+  },
+  {
+    "name": "widgets___es",
+    "path": "/es/widgets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_6f39d8d4"
+  },
+  {
+    "name": "extended-rangeslider___en",
+    "path": "/extended/rangeslider",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\rangeslider.vue",
+    "chunkName": "pages/extended/rangeslider",
+    "_name": "_2506cd42"
+  },
+  {
+    "name": "extended-scrollspy___en",
+    "path": "/extended/scrollspy",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\scrollspy.vue",
+    "chunkName": "pages/extended/scrollspy",
+    "_name": "_4e72c733"
+  },
+  {
+    "name": "extended-sweet-alert___en",
+    "path": "/extended/sweet-alert",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\sweet-alert.vue",
+    "chunkName": "pages/extended/sweet-alert",
+    "_name": "_f1ae86ba"
+  },
+  {
+    "name": "extended-tour___en",
+    "path": "/extended/tour",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\tour.vue",
+    "chunkName": "pages/extended/tour",
+    "_name": "_bb9d35b8"
+  },
+  {
+    "name": "extras-404___en",
+    "path": "/extras/404",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_57bbf872"
+  },
+  {
+    "name": "extras-404-alt___en",
+    "path": "/extras/404-alt",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_3bde4864"
+  },
+  {
+    "name": "extras-500___en",
+    "path": "/extras/500",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_e72c54a2"
+  },
+  {
+    "name": "extras-coming-soon___en",
+    "path": "/extras/coming-soon",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_bfc0cafe"
+  },
+  {
+    "name": "extras-faqs___en",
+    "path": "/extras/faqs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_75926fd3"
+  },
+  {
+    "name": "extras-invoice___en",
+    "path": "/extras/invoice",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_77e84ee7"
+  },
+  {
+    "name": "extras-lightbox___en",
+    "path": "/extras/lightbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_a748d4aa"
+  },
+  {
+    "name": "extras-maintenance___en",
+    "path": "/extras/maintenance",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_511c0a66"
+  },
+  {
+    "name": "extras-pricing___en",
+    "path": "/extras/pricing",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_0828b700"
+  },
+  {
+    "name": "extras-search-results___en",
+    "path": "/extras/search-results",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_f69fe5f2"
+  },
+  {
+    "name": "extras-sitemap___en",
+    "path": "/extras/sitemap",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_1cddb46f"
+  },
+  {
+    "name": "extras-starter___en",
+    "path": "/extras/starter",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_5a9bcb49"
+  },
+  {
+    "name": "extras-timeline___en",
+    "path": "/extras/timeline",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_1755baf7"
+  },
+  {
+    "name": "forms-advanced___en",
+    "path": "/forms/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_6e893bce"
+  },
+  {
+    "name": "forms-elements___en",
+    "path": "/forms/elements",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_af9fbbba"
+  },
+  {
+    "name": "forms-file-uploads___en",
+    "path": "/forms/file-uploads",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_20915d26"
+  },
+  {
+    "name": "forms-mask___en",
+    "path": "/forms/mask",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_2adee0d0"
+  },
+  {
+    "name": "forms-quill___en",
+    "path": "/forms/quill",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_6babb4ee"
+  },
+  {
+    "name": "forms-validation___en",
+    "path": "/forms/validation",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_3eaa38b6"
+  },
+  {
+    "name": "forms-wizard___en",
+    "path": "/forms/wizard",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_227a7cd2"
+  },
+  {
+    "name": "widgets___fr",
+    "path": "/fr/widgets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\index.vue",
+    "chunkName": "pages/widgets/index",
+    "_name": "_6f39d8d4"
+  },
+  {
+    "name": "icons-boxicons___en",
+    "path": "/icons/boxicons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_c662ddf4"
+  },
+  {
+    "name": "icons-data-fontawesome___en",
+    "path": "/icons/data-fontawesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_776363b2"
+  },
+  {
+    "name": "icons-data-material___en",
+    "path": "/icons/data-material",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_2b959c0c"
+  },
+  {
+    "name": "icons-data-remix___en",
+    "path": "/icons/data-remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_f2db0a1c"
+  },
+  {
+    "name": "icons-feather___en",
+    "path": "/icons/feather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_c0ff27c8"
+  },
+  {
+    "name": "icons-font-awesome___en",
+    "path": "/icons/font-awesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_a939b988"
+  },
+  {
+    "name": "icons-mdi___en",
+    "path": "/icons/mdi",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_1a13022b"
+  },
+  {
+    "name": "icons-remix___en",
+    "path": "/icons/remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_66d58c02"
+  },
+  {
+    "name": "icons-weather___en",
+    "path": "/icons/weather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_fa9f6a26"
+  },
+  {
+    "name": "maps-google___en",
+    "path": "/maps/google",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_aa9e153a"
+  },
+  {
+    "name": "tables-advanced___en",
+    "path": "/tables/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_2034b068"
+  },
+  {
+    "name": "tables-basic___en",
+    "path": "/tables/basic",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_4b161ab4"
+  },
+  {
+    "name": "task-detail___en",
+    "path": "/task/detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_24eb1d69"
+  },
+  {
+    "name": "task-kanban___en",
+    "path": "/task/kanban",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_864c075a"
+  },
+  {
+    "name": "task-list___en",
+    "path": "/task/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_23c18736"
+  },
+  {
+    "name": "ui-avatars___en",
+    "path": "/ui/avatars",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_18748d3a"
+  },
+  {
+    "name": "ui-buttons___en",
+    "path": "/ui/buttons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_7339132a"
+  },
+  {
+    "name": "ui-cards___en",
+    "path": "/ui/cards",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_10b3aa4c"
+  },
+  {
+    "name": "ui-carousel___en",
+    "path": "/ui/carousel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_220166f2"
+  },
+  {
+    "name": "ui-dropdowns___en",
+    "path": "/ui/dropdowns",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_41ebed2a"
+  },
+  {
+    "name": "ui-general___en",
+    "path": "/ui/general",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_0f6e5111"
+  },
+  {
+    "name": "ui-grid___en",
+    "path": "/ui/grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_1c20b2ed"
+  },
+  {
+    "name": "ui-images___en",
+    "path": "/ui/images",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_5735f95f"
+  },
+  {
+    "name": "ui-list-group___en",
+    "path": "/ui/list-group",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_376437f7"
+  },
+  {
+    "name": "ui-modals___en",
+    "path": "/ui/modals",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_5714ab4d"
+  },
+  {
+    "name": "ui-notifications___en",
+    "path": "/ui/notifications",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_dc1aa75e"
+  },
+  {
+    "name": "ui-portlets___en",
+    "path": "/ui/portlets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_2953af40"
+  },
+  {
+    "name": "ui-progress___en",
+    "path": "/ui/progress",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_997f0258"
+  },
+  {
+    "name": "ui-ribbons___en",
+    "path": "/ui/ribbons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_d92407f4"
+  },
+  {
+    "name": "ui-spinners___en",
+    "path": "/ui/spinners",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_5378dfa1"
+  },
+  {
+    "name": "ui-tabs-accordions___en",
+    "path": "/ui/tabs-accordions",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_151bfffa"
+  },
+  {
+    "name": "ui-tooltips-popovers___en",
+    "path": "/ui/tooltips-popovers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_e8035f98"
+  },
+  {
+    "name": "ui-typography___en",
+    "path": "/ui/typography",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_1fccf916"
+  },
+  {
+    "name": "ui-video___en",
+    "path": "/ui/video",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_6db68b64"
+  },
+  {
+    "name": "widgets-data___en",
+    "path": "/widgets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_6906038e"
+  },
+  {
+    "name": "apps-calendar-data-calendar___en",
+    "path": "/apps/calendar/data-calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_552ad601"
+  },
+  {
+    "name": "apps-chat-data___en",
+    "path": "/apps/chat/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_579212b0"
+  },
+  {
+    "name": "apps-companies-data___en",
+    "path": "/apps/companies/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\data.js",
+    "chunkName": "pages/apps/companies/data",
+    "_name": "_6f630b02"
+  },
+  {
+    "name": "apps-tickets-data___en",
+    "path": "/apps/tickets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\data.js",
+    "chunkName": "pages/apps/tickets/data",
+    "_name": "_3c9f4a33"
+  },
+  {
+    "name": "account-forgot-password___ar",
+    "path": "/ar/account/forgot-password",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_85e838ea"
+  },
+  {
+    "name": "account-login___ar",
+    "path": "/ar/account/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_454ba06f"
+  },
+  {
+    "name": "account-register___ar",
+    "path": "/ar/account/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_8bd823e6"
+  },
+  {
+    "name": "apps-calendar___ar",
+    "path": "/ar/apps/calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_2dd131c2"
+  },
+  {
+    "name": "apps-chat___ar",
+    "path": "/ar/apps/chat",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_eafea776"
+  },
+  {
+    "name": "apps-companies___ar",
+    "path": "/ar/apps/companies",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\index.vue",
+    "chunkName": "pages/apps/companies/index",
+    "_name": "_5272d348"
+  },
+  {
+    "name": "apps-file-manager___ar",
+    "path": "/ar/apps/file-manager",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6ba187a1"
+  },
+  {
+    "name": "apps-tickets___ar",
+    "path": "/ar/apps/tickets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\index.vue",
+    "chunkName": "pages/apps/tickets/index",
+    "_name": "_7a224910"
+  },
+  {
+    "name": "auth-confirm-mail___ar",
+    "path": "/ar/auth/confirm-mail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail.vue",
+    "chunkName": "pages/auth/confirm-mail",
+    "_name": "_71583cc2"
+  },
+  {
+    "name": "auth-confirm-mail-2___ar",
+    "path": "/ar/auth/confirm-mail-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail-2.vue",
+    "chunkName": "pages/auth/confirm-mail-2",
+    "_name": "_3c4ee704"
+  },
+  {
+    "name": "auth-lock-screen___ar",
+    "path": "/ar/auth/lock-screen",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen.vue",
+    "chunkName": "pages/auth/lock-screen",
+    "_name": "_8d062bba"
+  },
+  {
+    "name": "auth-lock-screen-2___ar",
+    "path": "/ar/auth/lock-screen-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen-2.vue",
+    "chunkName": "pages/auth/lock-screen-2",
+    "_name": "_4857de88"
+  },
+  {
+    "name": "auth-login___ar",
+    "path": "/ar/auth/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_0b04767e"
+  },
+  {
+    "name": "auth-login-2___ar",
+    "path": "/ar/auth/login-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login-2.vue",
+    "chunkName": "pages/auth/login-2",
+    "_name": "_562dc023"
+  },
+  {
+    "name": "auth-logout___ar",
+    "path": "/ar/auth/logout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout.vue",
+    "chunkName": "pages/auth/logout",
+    "_name": "_bac93c76"
+  },
+  {
+    "name": "auth-logout-2___ar",
+    "path": "/ar/auth/logout-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout-2.vue",
+    "chunkName": "pages/auth/logout-2",
+    "_name": "_63b6f5aa"
+  },
+  {
+    "name": "auth-recoverpwd___ar",
+    "path": "/ar/auth/recoverpwd",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd.vue",
+    "chunkName": "pages/auth/recoverpwd",
+    "_name": "_8766c2d8"
+  },
+  {
+    "name": "auth-recoverpwd-2___ar",
+    "path": "/ar/auth/recoverpwd-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd-2.vue",
+    "chunkName": "pages/auth/recoverpwd-2",
+    "_name": "_53e78a8e"
+  },
+  {
+    "name": "auth-register___ar",
+    "path": "/ar/auth/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_4aabacc4"
+  },
+  {
+    "name": "auth-register-2___ar",
+    "path": "/ar/auth/register-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register-2.vue",
+    "chunkName": "pages/auth/register-2",
+    "_name": "_5999a97a"
+  },
+  {
+    "name": "auth-signin-signup___ar",
+    "path": "/ar/auth/signin-signup",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup.vue",
+    "chunkName": "pages/auth/signin-signup",
+    "_name": "_2bfc7eb8"
+  },
+  {
+    "name": "auth-signin-signup-2___ar",
+    "path": "/ar/auth/signin-signup-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup-2.vue",
+    "chunkName": "pages/auth/signin-signup-2",
+    "_name": "_1944a1dd"
+  },
+  {
+    "name": "charts-apex___ar",
+    "path": "/ar/charts/apex",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_dfba5110"
+  },
+  {
+    "name": "charts-c3___ar",
+    "path": "/ar/charts/c3",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_46a3bbaa"
+  },
+  {
+    "name": "charts-chartist___ar",
+    "path": "/ar/charts/chartist",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_127d9a6e"
+  },
+  {
+    "name": "charts-chartjs___ar",
+    "path": "/ar/charts/chartjs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_6165f9f3"
+  },
+  {
+    "name": "charts-knob___ar",
+    "path": "/ar/charts/knob",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_d3a1fdc4"
+  },
+  {
+    "name": "contacts-list___ar",
+    "path": "/ar/contacts/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_f85d19f8"
+  },
+  {
+    "name": "contacts-profile___ar",
+    "path": "/ar/contacts/profile",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_46b8d39a"
+  },
+  {
+    "name": "dashboard-analytics___ar",
+    "path": "/ar/dashboard/analytics",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_0e13c3dd"
+  },
+  {
+    "name": "dashboard-crm___ar",
+    "path": "/ar/dashboard/crm",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_7e4a5576"
+  },
+  {
+    "name": "dashboard-sales___ar",
+    "path": "/ar/dashboard/sales",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_540d8b17"
+  },
+  {
+    "name": "ecommerce-cart___ar",
+    "path": "/ar/ecommerce/cart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_19ef8fc6"
+  },
+  {
+    "name": "ecommerce-checkout___ar",
+    "path": "/ar/ecommerce/checkout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_6705ccc3"
+  },
+  {
+    "name": "ecommerce-customers___ar",
+    "path": "/ar/ecommerce/customers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\index.vue",
+    "chunkName": "pages/ecommerce/customers/index",
+    "_name": "_4f0bc34c"
+  },
+  {
+    "name": "ecommerce-data-products___ar",
+    "path": "/ar/ecommerce/data-products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_0bc61456"
+  },
+  {
+    "name": "ecommerce-order-detail___ar",
+    "path": "/ar/ecommerce/order-detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_cd84f0a6"
+  },
+  {
+    "name": "ecommerce-orders___ar",
+    "path": "/ar/ecommerce/orders",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_424b9a20"
+  },
+  {
+    "name": "ecommerce-product-create___ar",
+    "path": "/ar/ecommerce/product-create",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_6aea9957"
+  },
+  {
+    "name": "ecommerce-products___ar",
+    "path": "/ar/ecommerce/products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_497a9381"
+  },
+  {
+    "name": "ecommerce-products-grid___ar",
+    "path": "/ar/ecommerce/products-grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_191c7462"
+  },
+  {
+    "name": "ecommerce-sellers___ar",
+    "path": "/ar/ecommerce/sellers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_b2924e32"
+  },
+  {
+    "name": "email-data-inbox___ar",
+    "path": "/ar/email/data-inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_d5b2245a"
+  },
+  {
+    "name": "email-inbox___ar",
+    "path": "/ar/email/inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_5f6fc2fd"
+  },
+  {
+    "name": "email-sidepanel___ar",
+    "path": "/ar/email/sidepanel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_3a212ef8"
+  },
+  {
+    "name": "email-templates___ar",
+    "path": "/ar/email/templates",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_5a944ab0"
+  },
+  {
+    "name": "email-toolbar___ar",
+    "path": "/ar/email/toolbar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_9138249c"
+  },
+  {
+    "name": "extended-rangeslider___ar",
+    "path": "/ar/extended/rangeslider",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\rangeslider.vue",
+    "chunkName": "pages/extended/rangeslider",
+    "_name": "_2506cd42"
+  },
+  {
+    "name": "extended-scrollspy___ar",
+    "path": "/ar/extended/scrollspy",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\scrollspy.vue",
+    "chunkName": "pages/extended/scrollspy",
+    "_name": "_4e72c733"
+  },
+  {
+    "name": "extended-sweet-alert___ar",
+    "path": "/ar/extended/sweet-alert",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\sweet-alert.vue",
+    "chunkName": "pages/extended/sweet-alert",
+    "_name": "_f1ae86ba"
+  },
+  {
+    "name": "extended-tour___ar",
+    "path": "/ar/extended/tour",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\tour.vue",
+    "chunkName": "pages/extended/tour",
+    "_name": "_bb9d35b8"
+  },
+  {
+    "name": "extras-404___ar",
+    "path": "/ar/extras/404",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_57bbf872"
+  },
+  {
+    "name": "extras-404-alt___ar",
+    "path": "/ar/extras/404-alt",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_3bde4864"
+  },
+  {
+    "name": "extras-500___ar",
+    "path": "/ar/extras/500",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_e72c54a2"
+  },
+  {
+    "name": "extras-coming-soon___ar",
+    "path": "/ar/extras/coming-soon",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_bfc0cafe"
+  },
+  {
+    "name": "extras-faqs___ar",
+    "path": "/ar/extras/faqs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_75926fd3"
+  },
+  {
+    "name": "extras-invoice___ar",
+    "path": "/ar/extras/invoice",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_77e84ee7"
+  },
+  {
+    "name": "extras-lightbox___ar",
+    "path": "/ar/extras/lightbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_a748d4aa"
+  },
+  {
+    "name": "extras-maintenance___ar",
+    "path": "/ar/extras/maintenance",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_511c0a66"
+  },
+  {
+    "name": "extras-pricing___ar",
+    "path": "/ar/extras/pricing",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_0828b700"
+  },
+  {
+    "name": "extras-search-results___ar",
+    "path": "/ar/extras/search-results",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_f69fe5f2"
+  },
+  {
+    "name": "extras-sitemap___ar",
+    "path": "/ar/extras/sitemap",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_1cddb46f"
+  },
+  {
+    "name": "extras-starter___ar",
+    "path": "/ar/extras/starter",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_5a9bcb49"
+  },
+  {
+    "name": "extras-timeline___ar",
+    "path": "/ar/extras/timeline",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_1755baf7"
+  },
+  {
+    "name": "forms-advanced___ar",
+    "path": "/ar/forms/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_6e893bce"
+  },
+  {
+    "name": "forms-elements___ar",
+    "path": "/ar/forms/elements",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_af9fbbba"
+  },
+  {
+    "name": "forms-file-uploads___ar",
+    "path": "/ar/forms/file-uploads",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_20915d26"
+  },
+  {
+    "name": "forms-mask___ar",
+    "path": "/ar/forms/mask",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_2adee0d0"
+  },
+  {
+    "name": "forms-quill___ar",
+    "path": "/ar/forms/quill",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_6babb4ee"
+  },
+  {
+    "name": "forms-validation___ar",
+    "path": "/ar/forms/validation",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_3eaa38b6"
+  },
+  {
+    "name": "forms-wizard___ar",
+    "path": "/ar/forms/wizard",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_227a7cd2"
+  },
+  {
+    "name": "icons-boxicons___ar",
+    "path": "/ar/icons/boxicons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_c662ddf4"
+  },
+  {
+    "name": "icons-data-fontawesome___ar",
+    "path": "/ar/icons/data-fontawesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_776363b2"
+  },
+  {
+    "name": "icons-data-material___ar",
+    "path": "/ar/icons/data-material",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_2b959c0c"
+  },
+  {
+    "name": "icons-data-remix___ar",
+    "path": "/ar/icons/data-remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_f2db0a1c"
+  },
+  {
+    "name": "icons-feather___ar",
+    "path": "/ar/icons/feather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_c0ff27c8"
+  },
+  {
+    "name": "icons-font-awesome___ar",
+    "path": "/ar/icons/font-awesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_a939b988"
+  },
+  {
+    "name": "icons-mdi___ar",
+    "path": "/ar/icons/mdi",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_1a13022b"
+  },
+  {
+    "name": "icons-remix___ar",
+    "path": "/ar/icons/remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_66d58c02"
+  },
+  {
+    "name": "icons-weather___ar",
+    "path": "/ar/icons/weather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_fa9f6a26"
+  },
+  {
+    "name": "maps-google___ar",
+    "path": "/ar/maps/google",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_aa9e153a"
+  },
+  {
+    "name": "tables-advanced___ar",
+    "path": "/ar/tables/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_2034b068"
+  },
+  {
+    "name": "tables-basic___ar",
+    "path": "/ar/tables/basic",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_4b161ab4"
+  },
+  {
+    "name": "task-detail___ar",
+    "path": "/ar/task/detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_24eb1d69"
+  },
+  {
+    "name": "task-kanban___ar",
+    "path": "/ar/task/kanban",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_864c075a"
+  },
+  {
+    "name": "task-list___ar",
+    "path": "/ar/task/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_23c18736"
+  },
+  {
+    "name": "ui-avatars___ar",
+    "path": "/ar/ui/avatars",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_18748d3a"
+  },
+  {
+    "name": "ui-buttons___ar",
+    "path": "/ar/ui/buttons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_7339132a"
+  },
+  {
+    "name": "ui-cards___ar",
+    "path": "/ar/ui/cards",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_10b3aa4c"
+  },
+  {
+    "name": "ui-carousel___ar",
+    "path": "/ar/ui/carousel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_220166f2"
+  },
+  {
+    "name": "ui-dropdowns___ar",
+    "path": "/ar/ui/dropdowns",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_41ebed2a"
+  },
+  {
+    "name": "ui-general___ar",
+    "path": "/ar/ui/general",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_0f6e5111"
+  },
+  {
+    "name": "ui-grid___ar",
+    "path": "/ar/ui/grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_1c20b2ed"
+  },
+  {
+    "name": "ui-images___ar",
+    "path": "/ar/ui/images",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_5735f95f"
+  },
+  {
+    "name": "ui-list-group___ar",
+    "path": "/ar/ui/list-group",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_376437f7"
+  },
+  {
+    "name": "ui-modals___ar",
+    "path": "/ar/ui/modals",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_5714ab4d"
+  },
+  {
+    "name": "ui-notifications___ar",
+    "path": "/ar/ui/notifications",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_dc1aa75e"
+  },
+  {
+    "name": "ui-portlets___ar",
+    "path": "/ar/ui/portlets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_2953af40"
+  },
+  {
+    "name": "ui-progress___ar",
+    "path": "/ar/ui/progress",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_997f0258"
+  },
+  {
+    "name": "ui-ribbons___ar",
+    "path": "/ar/ui/ribbons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_d92407f4"
+  },
+  {
+    "name": "ui-spinners___ar",
+    "path": "/ar/ui/spinners",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_5378dfa1"
+  },
+  {
+    "name": "ui-tabs-accordions___ar",
+    "path": "/ar/ui/tabs-accordions",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_151bfffa"
+  },
+  {
+    "name": "ui-tooltips-popovers___ar",
+    "path": "/ar/ui/tooltips-popovers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_e8035f98"
+  },
+  {
+    "name": "ui-typography___ar",
+    "path": "/ar/ui/typography",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_1fccf916"
+  },
+  {
+    "name": "ui-video___ar",
+    "path": "/ar/ui/video",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_6db68b64"
+  },
+  {
+    "name": "widgets-data___ar",
+    "path": "/ar/widgets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_6906038e"
+  },
+  {
+    "name": "charts-apex-data___en",
+    "path": "/charts/apex/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_56c0529b"
+  },
+  {
+    "name": "charts-c3-data___en",
+    "path": "/charts/c3/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_af9ec966"
+  },
+  {
+    "name": "charts-chartist-data___en",
+    "path": "/charts/chartist/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_2bbb5b11"
+  },
+  {
+    "name": "charts-chartjs-BarChart___en",
+    "path": "/charts/chartjs/BarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_4e2c589a"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___en",
+    "path": "/charts/chartjs/DonutChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_76cb36aa"
+  },
+  {
+    "name": "charts-chartjs-LineChart___en",
+    "path": "/charts/chartjs/LineChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_0a82a8cb"
+  },
+  {
+    "name": "charts-chartjs-PieChart___en",
+    "path": "/charts/chartjs/PieChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_0d63897e"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___en",
+    "path": "/charts/chartjs/PolarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7da897e2"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___en",
+    "path": "/charts/chartjs/RadarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3c2fc147"
+  },
+  {
+    "name": "dashboard-analytics-channels___en",
+    "path": "/dashboard/analytics/channels",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_19827415"
+  },
+  {
+    "name": "dashboard-analytics-overview___en",
+    "path": "/dashboard/analytics/overview",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_790f7d84"
+  },
+  {
+    "name": "dashboard-analytics-social-media___en",
+    "path": "/dashboard/analytics/social-media",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_30bd4d49"
+  },
+  {
+    "name": "dashboard-analytics-sources___en",
+    "path": "/dashboard/analytics/sources",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_79da79fa"
+  },
+  {
+    "name": "dashboard-analytics-users___en",
+    "path": "/dashboard/analytics/users",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_537d9e13"
+  },
+  {
+    "name": "ecommerce-customers-data___en",
+    "path": "/ecommerce/customers/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\data.js",
+    "chunkName": "pages/ecommerce/customers/data",
+    "_name": "_cec02c06"
+  },
+  {
+    "name": "ecommerce-orders-data___en",
+    "path": "/ecommerce/orders/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_93ecc17a"
+  },
+  {
+    "name": "ecommerce-products-data___en",
+    "path": "/ecommerce/products/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_2c8d0638"
+  },
+  {
+    "name": "account-forgot-password___es",
+    "path": "/es/account/forgot-password",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_85e838ea"
+  },
+  {
+    "name": "account-login___es",
+    "path": "/es/account/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_454ba06f"
+  },
+  {
+    "name": "account-register___es",
+    "path": "/es/account/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_8bd823e6"
+  },
+  {
+    "name": "apps-calendar___es",
+    "path": "/es/apps/calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_2dd131c2"
+  },
+  {
+    "name": "apps-chat___es",
+    "path": "/es/apps/chat",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_eafea776"
+  },
+  {
+    "name": "apps-companies___es",
+    "path": "/es/apps/companies",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\index.vue",
+    "chunkName": "pages/apps/companies/index",
+    "_name": "_5272d348"
+  },
+  {
+    "name": "apps-file-manager___es",
+    "path": "/es/apps/file-manager",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6ba187a1"
+  },
+  {
+    "name": "apps-tickets___es",
+    "path": "/es/apps/tickets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\index.vue",
+    "chunkName": "pages/apps/tickets/index",
+    "_name": "_7a224910"
+  },
+  {
+    "name": "auth-confirm-mail___es",
+    "path": "/es/auth/confirm-mail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail.vue",
+    "chunkName": "pages/auth/confirm-mail",
+    "_name": "_71583cc2"
+  },
+  {
+    "name": "auth-confirm-mail-2___es",
+    "path": "/es/auth/confirm-mail-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail-2.vue",
+    "chunkName": "pages/auth/confirm-mail-2",
+    "_name": "_3c4ee704"
+  },
+  {
+    "name": "auth-lock-screen___es",
+    "path": "/es/auth/lock-screen",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen.vue",
+    "chunkName": "pages/auth/lock-screen",
+    "_name": "_8d062bba"
+  },
+  {
+    "name": "auth-lock-screen-2___es",
+    "path": "/es/auth/lock-screen-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen-2.vue",
+    "chunkName": "pages/auth/lock-screen-2",
+    "_name": "_4857de88"
+  },
+  {
+    "name": "auth-login___es",
+    "path": "/es/auth/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_0b04767e"
+  },
+  {
+    "name": "auth-login-2___es",
+    "path": "/es/auth/login-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login-2.vue",
+    "chunkName": "pages/auth/login-2",
+    "_name": "_562dc023"
+  },
+  {
+    "name": "auth-logout___es",
+    "path": "/es/auth/logout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout.vue",
+    "chunkName": "pages/auth/logout",
+    "_name": "_bac93c76"
+  },
+  {
+    "name": "auth-logout-2___es",
+    "path": "/es/auth/logout-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout-2.vue",
+    "chunkName": "pages/auth/logout-2",
+    "_name": "_63b6f5aa"
+  },
+  {
+    "name": "auth-recoverpwd___es",
+    "path": "/es/auth/recoverpwd",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd.vue",
+    "chunkName": "pages/auth/recoverpwd",
+    "_name": "_8766c2d8"
+  },
+  {
+    "name": "auth-recoverpwd-2___es",
+    "path": "/es/auth/recoverpwd-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd-2.vue",
+    "chunkName": "pages/auth/recoverpwd-2",
+    "_name": "_53e78a8e"
+  },
+  {
+    "name": "auth-register___es",
+    "path": "/es/auth/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_4aabacc4"
+  },
+  {
+    "name": "auth-register-2___es",
+    "path": "/es/auth/register-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register-2.vue",
+    "chunkName": "pages/auth/register-2",
+    "_name": "_5999a97a"
+  },
+  {
+    "name": "auth-signin-signup___es",
+    "path": "/es/auth/signin-signup",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup.vue",
+    "chunkName": "pages/auth/signin-signup",
+    "_name": "_2bfc7eb8"
+  },
+  {
+    "name": "auth-signin-signup-2___es",
+    "path": "/es/auth/signin-signup-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup-2.vue",
+    "chunkName": "pages/auth/signin-signup-2",
+    "_name": "_1944a1dd"
+  },
+  {
+    "name": "charts-apex___es",
+    "path": "/es/charts/apex",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_dfba5110"
+  },
+  {
+    "name": "charts-c3___es",
+    "path": "/es/charts/c3",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_46a3bbaa"
+  },
+  {
+    "name": "charts-chartist___es",
+    "path": "/es/charts/chartist",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_127d9a6e"
+  },
+  {
+    "name": "charts-chartjs___es",
+    "path": "/es/charts/chartjs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_6165f9f3"
+  },
+  {
+    "name": "charts-knob___es",
+    "path": "/es/charts/knob",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_d3a1fdc4"
+  },
+  {
+    "name": "contacts-list___es",
+    "path": "/es/contacts/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_f85d19f8"
+  },
+  {
+    "name": "contacts-profile___es",
+    "path": "/es/contacts/profile",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_46b8d39a"
+  },
+  {
+    "name": "dashboard-analytics___es",
+    "path": "/es/dashboard/analytics",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_0e13c3dd"
+  },
+  {
+    "name": "dashboard-crm___es",
+    "path": "/es/dashboard/crm",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_7e4a5576"
+  },
+  {
+    "name": "dashboard-sales___es",
+    "path": "/es/dashboard/sales",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_540d8b17"
+  },
+  {
+    "name": "ecommerce-cart___es",
+    "path": "/es/ecommerce/cart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_19ef8fc6"
+  },
+  {
+    "name": "ecommerce-checkout___es",
+    "path": "/es/ecommerce/checkout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_6705ccc3"
+  },
+  {
+    "name": "ecommerce-customers___es",
+    "path": "/es/ecommerce/customers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\index.vue",
+    "chunkName": "pages/ecommerce/customers/index",
+    "_name": "_4f0bc34c"
+  },
+  {
+    "name": "ecommerce-data-products___es",
+    "path": "/es/ecommerce/data-products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_0bc61456"
+  },
+  {
+    "name": "ecommerce-order-detail___es",
+    "path": "/es/ecommerce/order-detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_cd84f0a6"
+  },
+  {
+    "name": "ecommerce-orders___es",
+    "path": "/es/ecommerce/orders",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_424b9a20"
+  },
+  {
+    "name": "ecommerce-product-create___es",
+    "path": "/es/ecommerce/product-create",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_6aea9957"
+  },
+  {
+    "name": "ecommerce-products___es",
+    "path": "/es/ecommerce/products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_497a9381"
+  },
+  {
+    "name": "ecommerce-products-grid___es",
+    "path": "/es/ecommerce/products-grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_191c7462"
+  },
+  {
+    "name": "ecommerce-sellers___es",
+    "path": "/es/ecommerce/sellers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_b2924e32"
+  },
+  {
+    "name": "email-data-inbox___es",
+    "path": "/es/email/data-inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_d5b2245a"
+  },
+  {
+    "name": "email-inbox___es",
+    "path": "/es/email/inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_5f6fc2fd"
+  },
+  {
+    "name": "email-sidepanel___es",
+    "path": "/es/email/sidepanel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_3a212ef8"
+  },
+  {
+    "name": "email-templates___es",
+    "path": "/es/email/templates",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_5a944ab0"
+  },
+  {
+    "name": "email-toolbar___es",
+    "path": "/es/email/toolbar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_9138249c"
+  },
+  {
+    "name": "extended-rangeslider___es",
+    "path": "/es/extended/rangeslider",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\rangeslider.vue",
+    "chunkName": "pages/extended/rangeslider",
+    "_name": "_2506cd42"
+  },
+  {
+    "name": "extended-scrollspy___es",
+    "path": "/es/extended/scrollspy",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\scrollspy.vue",
+    "chunkName": "pages/extended/scrollspy",
+    "_name": "_4e72c733"
+  },
+  {
+    "name": "extended-sweet-alert___es",
+    "path": "/es/extended/sweet-alert",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\sweet-alert.vue",
+    "chunkName": "pages/extended/sweet-alert",
+    "_name": "_f1ae86ba"
+  },
+  {
+    "name": "extended-tour___es",
+    "path": "/es/extended/tour",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\tour.vue",
+    "chunkName": "pages/extended/tour",
+    "_name": "_bb9d35b8"
+  },
+  {
+    "name": "extras-404___es",
+    "path": "/es/extras/404",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_57bbf872"
+  },
+  {
+    "name": "extras-404-alt___es",
+    "path": "/es/extras/404-alt",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_3bde4864"
+  },
+  {
+    "name": "extras-500___es",
+    "path": "/es/extras/500",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_e72c54a2"
+  },
+  {
+    "name": "extras-coming-soon___es",
+    "path": "/es/extras/coming-soon",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_bfc0cafe"
+  },
+  {
+    "name": "extras-faqs___es",
+    "path": "/es/extras/faqs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_75926fd3"
+  },
+  {
+    "name": "extras-invoice___es",
+    "path": "/es/extras/invoice",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_77e84ee7"
+  },
+  {
+    "name": "extras-lightbox___es",
+    "path": "/es/extras/lightbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_a748d4aa"
+  },
+  {
+    "name": "extras-maintenance___es",
+    "path": "/es/extras/maintenance",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_511c0a66"
+  },
+  {
+    "name": "extras-pricing___es",
+    "path": "/es/extras/pricing",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_0828b700"
+  },
+  {
+    "name": "extras-search-results___es",
+    "path": "/es/extras/search-results",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_f69fe5f2"
+  },
+  {
+    "name": "extras-sitemap___es",
+    "path": "/es/extras/sitemap",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_1cddb46f"
+  },
+  {
+    "name": "extras-starter___es",
+    "path": "/es/extras/starter",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_5a9bcb49"
+  },
+  {
+    "name": "extras-timeline___es",
+    "path": "/es/extras/timeline",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_1755baf7"
+  },
+  {
+    "name": "forms-advanced___es",
+    "path": "/es/forms/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_6e893bce"
+  },
+  {
+    "name": "forms-elements___es",
+    "path": "/es/forms/elements",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_af9fbbba"
+  },
+  {
+    "name": "forms-file-uploads___es",
+    "path": "/es/forms/file-uploads",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_20915d26"
+  },
+  {
+    "name": "forms-mask___es",
+    "path": "/es/forms/mask",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_2adee0d0"
+  },
+  {
+    "name": "forms-quill___es",
+    "path": "/es/forms/quill",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_6babb4ee"
+  },
+  {
+    "name": "forms-validation___es",
+    "path": "/es/forms/validation",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_3eaa38b6"
+  },
+  {
+    "name": "forms-wizard___es",
+    "path": "/es/forms/wizard",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_227a7cd2"
+  },
+  {
+    "name": "icons-boxicons___es",
+    "path": "/es/icons/boxicons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_c662ddf4"
+  },
+  {
+    "name": "icons-data-fontawesome___es",
+    "path": "/es/icons/data-fontawesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_776363b2"
+  },
+  {
+    "name": "icons-data-material___es",
+    "path": "/es/icons/data-material",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_2b959c0c"
+  },
+  {
+    "name": "icons-data-remix___es",
+    "path": "/es/icons/data-remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_f2db0a1c"
+  },
+  {
+    "name": "icons-feather___es",
+    "path": "/es/icons/feather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_c0ff27c8"
+  },
+  {
+    "name": "icons-font-awesome___es",
+    "path": "/es/icons/font-awesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_a939b988"
+  },
+  {
+    "name": "icons-mdi___es",
+    "path": "/es/icons/mdi",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_1a13022b"
+  },
+  {
+    "name": "icons-remix___es",
+    "path": "/es/icons/remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_66d58c02"
+  },
+  {
+    "name": "icons-weather___es",
+    "path": "/es/icons/weather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_fa9f6a26"
+  },
+  {
+    "name": "maps-google___es",
+    "path": "/es/maps/google",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_aa9e153a"
+  },
+  {
+    "name": "tables-advanced___es",
+    "path": "/es/tables/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_2034b068"
+  },
+  {
+    "name": "tables-basic___es",
+    "path": "/es/tables/basic",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_4b161ab4"
+  },
+  {
+    "name": "task-detail___es",
+    "path": "/es/task/detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_24eb1d69"
+  },
+  {
+    "name": "task-kanban___es",
+    "path": "/es/task/kanban",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_864c075a"
+  },
+  {
+    "name": "task-list___es",
+    "path": "/es/task/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_23c18736"
+  },
+  {
+    "name": "ui-avatars___es",
+    "path": "/es/ui/avatars",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_18748d3a"
+  },
+  {
+    "name": "ui-buttons___es",
+    "path": "/es/ui/buttons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_7339132a"
+  },
+  {
+    "name": "ui-cards___es",
+    "path": "/es/ui/cards",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_10b3aa4c"
+  },
+  {
+    "name": "ui-carousel___es",
+    "path": "/es/ui/carousel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_220166f2"
+  },
+  {
+    "name": "ui-dropdowns___es",
+    "path": "/es/ui/dropdowns",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_41ebed2a"
+  },
+  {
+    "name": "ui-general___es",
+    "path": "/es/ui/general",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_0f6e5111"
+  },
+  {
+    "name": "ui-grid___es",
+    "path": "/es/ui/grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_1c20b2ed"
+  },
+  {
+    "name": "ui-images___es",
+    "path": "/es/ui/images",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_5735f95f"
+  },
+  {
+    "name": "ui-list-group___es",
+    "path": "/es/ui/list-group",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_376437f7"
+  },
+  {
+    "name": "ui-modals___es",
+    "path": "/es/ui/modals",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_5714ab4d"
+  },
+  {
+    "name": "ui-notifications___es",
+    "path": "/es/ui/notifications",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_dc1aa75e"
+  },
+  {
+    "name": "ui-portlets___es",
+    "path": "/es/ui/portlets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_2953af40"
+  },
+  {
+    "name": "ui-progress___es",
+    "path": "/es/ui/progress",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_997f0258"
+  },
+  {
+    "name": "ui-ribbons___es",
+    "path": "/es/ui/ribbons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_d92407f4"
+  },
+  {
+    "name": "ui-spinners___es",
+    "path": "/es/ui/spinners",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_5378dfa1"
+  },
+  {
+    "name": "ui-tabs-accordions___es",
+    "path": "/es/ui/tabs-accordions",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_151bfffa"
+  },
+  {
+    "name": "ui-tooltips-popovers___es",
+    "path": "/es/ui/tooltips-popovers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_e8035f98"
+  },
+  {
+    "name": "ui-typography___es",
+    "path": "/es/ui/typography",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_1fccf916"
+  },
+  {
+    "name": "ui-video___es",
+    "path": "/es/ui/video",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_6db68b64"
+  },
+  {
+    "name": "widgets-data___es",
+    "path": "/es/widgets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_6906038e"
+  },
+  {
+    "name": "account-forgot-password___fr",
+    "path": "/fr/account/forgot-password",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\forgot-password.vue",
+    "chunkName": "pages/account/forgot-password",
+    "_name": "_85e838ea"
+  },
+  {
+    "name": "account-login___fr",
+    "path": "/fr/account/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\login.vue",
+    "chunkName": "pages/account/login",
+    "_name": "_454ba06f"
+  },
+  {
+    "name": "account-register___fr",
+    "path": "/fr/account/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\account\\\\register.vue",
+    "chunkName": "pages/account/register",
+    "_name": "_8bd823e6"
+  },
+  {
+    "name": "apps-calendar___fr",
+    "path": "/fr/apps/calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\index.vue",
+    "chunkName": "pages/apps/calendar/index",
+    "_name": "_2dd131c2"
+  },
+  {
+    "name": "apps-chat___fr",
+    "path": "/fr/apps/chat",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\index.vue",
+    "chunkName": "pages/apps/chat/index",
+    "_name": "_eafea776"
+  },
+  {
+    "name": "apps-companies___fr",
+    "path": "/fr/apps/companies",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\index.vue",
+    "chunkName": "pages/apps/companies/index",
+    "_name": "_5272d348"
+  },
+  {
+    "name": "apps-file-manager___fr",
+    "path": "/fr/apps/file-manager",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\file-manager.vue",
+    "chunkName": "pages/apps/file-manager",
+    "_name": "_6ba187a1"
+  },
+  {
+    "name": "apps-tickets___fr",
+    "path": "/fr/apps/tickets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\index.vue",
+    "chunkName": "pages/apps/tickets/index",
+    "_name": "_7a224910"
+  },
+  {
+    "name": "auth-confirm-mail___fr",
+    "path": "/fr/auth/confirm-mail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail.vue",
+    "chunkName": "pages/auth/confirm-mail",
+    "_name": "_71583cc2"
+  },
+  {
+    "name": "auth-confirm-mail-2___fr",
+    "path": "/fr/auth/confirm-mail-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\confirm-mail-2.vue",
+    "chunkName": "pages/auth/confirm-mail-2",
+    "_name": "_3c4ee704"
+  },
+  {
+    "name": "auth-lock-screen___fr",
+    "path": "/fr/auth/lock-screen",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen.vue",
+    "chunkName": "pages/auth/lock-screen",
+    "_name": "_8d062bba"
+  },
+  {
+    "name": "auth-lock-screen-2___fr",
+    "path": "/fr/auth/lock-screen-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\lock-screen-2.vue",
+    "chunkName": "pages/auth/lock-screen-2",
+    "_name": "_4857de88"
+  },
+  {
+    "name": "auth-login___fr",
+    "path": "/fr/auth/login",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_0b04767e"
+  },
+  {
+    "name": "auth-login-2___fr",
+    "path": "/fr/auth/login-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\login-2.vue",
+    "chunkName": "pages/auth/login-2",
+    "_name": "_562dc023"
+  },
+  {
+    "name": "auth-logout___fr",
+    "path": "/fr/auth/logout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout.vue",
+    "chunkName": "pages/auth/logout",
+    "_name": "_bac93c76"
+  },
+  {
+    "name": "auth-logout-2___fr",
+    "path": "/fr/auth/logout-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\logout-2.vue",
+    "chunkName": "pages/auth/logout-2",
+    "_name": "_63b6f5aa"
+  },
+  {
+    "name": "auth-recoverpwd___fr",
+    "path": "/fr/auth/recoverpwd",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd.vue",
+    "chunkName": "pages/auth/recoverpwd",
+    "_name": "_8766c2d8"
+  },
+  {
+    "name": "auth-recoverpwd-2___fr",
+    "path": "/fr/auth/recoverpwd-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\recoverpwd-2.vue",
+    "chunkName": "pages/auth/recoverpwd-2",
+    "_name": "_53e78a8e"
+  },
+  {
+    "name": "auth-register___fr",
+    "path": "/fr/auth/register",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register.vue",
+    "chunkName": "pages/auth/register",
+    "_name": "_4aabacc4"
+  },
+  {
+    "name": "auth-register-2___fr",
+    "path": "/fr/auth/register-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\register-2.vue",
+    "chunkName": "pages/auth/register-2",
+    "_name": "_5999a97a"
+  },
+  {
+    "name": "auth-signin-signup___fr",
+    "path": "/fr/auth/signin-signup",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup.vue",
+    "chunkName": "pages/auth/signin-signup",
+    "_name": "_2bfc7eb8"
+  },
+  {
+    "name": "auth-signin-signup-2___fr",
+    "path": "/fr/auth/signin-signup-2",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\auth\\\\signin-signup-2.vue",
+    "chunkName": "pages/auth/signin-signup-2",
+    "_name": "_1944a1dd"
+  },
+  {
+    "name": "charts-apex___fr",
+    "path": "/fr/charts/apex",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\index.vue",
+    "chunkName": "pages/charts/apex/index",
+    "_name": "_dfba5110"
+  },
+  {
+    "name": "charts-c3___fr",
+    "path": "/fr/charts/c3",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\index.vue",
+    "chunkName": "pages/charts/c3/index",
+    "_name": "_46a3bbaa"
+  },
+  {
+    "name": "charts-chartist___fr",
+    "path": "/fr/charts/chartist",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\index.vue",
+    "chunkName": "pages/charts/chartist/index",
+    "_name": "_127d9a6e"
+  },
+  {
+    "name": "charts-chartjs___fr",
+    "path": "/fr/charts/chartjs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\index.vue",
+    "chunkName": "pages/charts/chartjs/index",
+    "_name": "_6165f9f3"
+  },
+  {
+    "name": "charts-knob___fr",
+    "path": "/fr/charts/knob",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\knob.vue",
+    "chunkName": "pages/charts/knob",
+    "_name": "_d3a1fdc4"
+  },
+  {
+    "name": "contacts-list___fr",
+    "path": "/fr/contacts/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\list.vue",
+    "chunkName": "pages/contacts/list",
+    "_name": "_f85d19f8"
+  },
+  {
+    "name": "contacts-profile___fr",
+    "path": "/fr/contacts/profile",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\contacts\\\\profile.vue",
+    "chunkName": "pages/contacts/profile",
+    "_name": "_46b8d39a"
+  },
+  {
+    "name": "dashboard-analytics___fr",
+    "path": "/fr/dashboard/analytics",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\index.vue",
+    "chunkName": "pages/dashboard/analytics/index",
+    "_name": "_0e13c3dd"
+  },
+  {
+    "name": "dashboard-crm___fr",
+    "path": "/fr/dashboard/crm",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\crm\\\\index.vue",
+    "chunkName": "pages/dashboard/crm/index",
+    "_name": "_7e4a5576"
+  },
+  {
+    "name": "dashboard-sales___fr",
+    "path": "/fr/dashboard/sales",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\sales\\\\index.vue",
+    "chunkName": "pages/dashboard/sales/index",
+    "_name": "_540d8b17"
+  },
+  {
+    "name": "ecommerce-cart___fr",
+    "path": "/fr/ecommerce/cart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\cart.vue",
+    "chunkName": "pages/ecommerce/cart",
+    "_name": "_19ef8fc6"
+  },
+  {
+    "name": "ecommerce-checkout___fr",
+    "path": "/fr/ecommerce/checkout",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\checkout.vue",
+    "chunkName": "pages/ecommerce/checkout",
+    "_name": "_6705ccc3"
+  },
+  {
+    "name": "ecommerce-customers___fr",
+    "path": "/fr/ecommerce/customers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\index.vue",
+    "chunkName": "pages/ecommerce/customers/index",
+    "_name": "_4f0bc34c"
+  },
+  {
+    "name": "ecommerce-data-products___fr",
+    "path": "/fr/ecommerce/data-products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\data-products.js",
+    "chunkName": "pages/ecommerce/data-products",
+    "_name": "_0bc61456"
+  },
+  {
+    "name": "ecommerce-order-detail___fr",
+    "path": "/fr/ecommerce/order-detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\order-detail.vue",
+    "chunkName": "pages/ecommerce/order-detail",
+    "_name": "_cd84f0a6"
+  },
+  {
+    "name": "ecommerce-orders___fr",
+    "path": "/fr/ecommerce/orders",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\index.vue",
+    "chunkName": "pages/ecommerce/orders/index",
+    "_name": "_424b9a20"
+  },
+  {
+    "name": "ecommerce-product-create___fr",
+    "path": "/fr/ecommerce/product-create",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-create.vue",
+    "chunkName": "pages/ecommerce/product-create",
+    "_name": "_6aea9957"
+  },
+  {
+    "name": "ecommerce-products___fr",
+    "path": "/fr/ecommerce/products",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\index.vue",
+    "chunkName": "pages/ecommerce/products/index",
+    "_name": "_497a9381"
+  },
+  {
+    "name": "ecommerce-products-grid___fr",
+    "path": "/fr/ecommerce/products-grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products-grid.vue",
+    "chunkName": "pages/ecommerce/products-grid",
+    "_name": "_191c7462"
+  },
+  {
+    "name": "ecommerce-sellers___fr",
+    "path": "/fr/ecommerce/sellers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\sellers.vue",
+    "chunkName": "pages/ecommerce/sellers",
+    "_name": "_b2924e32"
+  },
+  {
+    "name": "email-data-inbox___fr",
+    "path": "/fr/email/data-inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\data-inbox.js",
+    "chunkName": "pages/email/data-inbox",
+    "_name": "_d5b2245a"
+  },
+  {
+    "name": "email-inbox___fr",
+    "path": "/fr/email/inbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\inbox.vue",
+    "chunkName": "pages/email/inbox",
+    "_name": "_5f6fc2fd"
+  },
+  {
+    "name": "email-sidepanel___fr",
+    "path": "/fr/email/sidepanel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\sidepanel.vue",
+    "chunkName": "pages/email/sidepanel",
+    "_name": "_3a212ef8"
+  },
+  {
+    "name": "email-templates___fr",
+    "path": "/fr/email/templates",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\templates.vue",
+    "chunkName": "pages/email/templates",
+    "_name": "_5a944ab0"
+  },
+  {
+    "name": "email-toolbar___fr",
+    "path": "/fr/email/toolbar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\toolbar.vue",
+    "chunkName": "pages/email/toolbar",
+    "_name": "_9138249c"
+  },
+  {
+    "name": "extended-rangeslider___fr",
+    "path": "/fr/extended/rangeslider",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\rangeslider.vue",
+    "chunkName": "pages/extended/rangeslider",
+    "_name": "_2506cd42"
+  },
+  {
+    "name": "extended-scrollspy___fr",
+    "path": "/fr/extended/scrollspy",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\scrollspy.vue",
+    "chunkName": "pages/extended/scrollspy",
+    "_name": "_4e72c733"
+  },
+  {
+    "name": "extended-sweet-alert___fr",
+    "path": "/fr/extended/sweet-alert",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\sweet-alert.vue",
+    "chunkName": "pages/extended/sweet-alert",
+    "_name": "_f1ae86ba"
+  },
+  {
+    "name": "extended-tour___fr",
+    "path": "/fr/extended/tour",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extended\\\\tour.vue",
+    "chunkName": "pages/extended/tour",
+    "_name": "_bb9d35b8"
+  },
+  {
+    "name": "extras-404___fr",
+    "path": "/fr/extras/404",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404.vue",
+    "chunkName": "pages/extras/404",
+    "_name": "_57bbf872"
+  },
+  {
+    "name": "extras-404-alt___fr",
+    "path": "/fr/extras/404-alt",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\404-alt.vue",
+    "chunkName": "pages/extras/404-alt",
+    "_name": "_3bde4864"
+  },
+  {
+    "name": "extras-500___fr",
+    "path": "/fr/extras/500",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\500.vue",
+    "chunkName": "pages/extras/500",
+    "_name": "_e72c54a2"
+  },
+  {
+    "name": "extras-coming-soon___fr",
+    "path": "/fr/extras/coming-soon",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\coming-soon.vue",
+    "chunkName": "pages/extras/coming-soon",
+    "_name": "_bfc0cafe"
+  },
+  {
+    "name": "extras-faqs___fr",
+    "path": "/fr/extras/faqs",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\faqs.vue",
+    "chunkName": "pages/extras/faqs",
+    "_name": "_75926fd3"
+  },
+  {
+    "name": "extras-invoice___fr",
+    "path": "/fr/extras/invoice",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\invoice.vue",
+    "chunkName": "pages/extras/invoice",
+    "_name": "_77e84ee7"
+  },
+  {
+    "name": "extras-lightbox___fr",
+    "path": "/fr/extras/lightbox",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\lightbox.vue",
+    "chunkName": "pages/extras/lightbox",
+    "_name": "_a748d4aa"
+  },
+  {
+    "name": "extras-maintenance___fr",
+    "path": "/fr/extras/maintenance",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\maintenance.vue",
+    "chunkName": "pages/extras/maintenance",
+    "_name": "_511c0a66"
+  },
+  {
+    "name": "extras-pricing___fr",
+    "path": "/fr/extras/pricing",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\pricing.vue",
+    "chunkName": "pages/extras/pricing",
+    "_name": "_0828b700"
+  },
+  {
+    "name": "extras-search-results___fr",
+    "path": "/fr/extras/search-results",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\search-results.vue",
+    "chunkName": "pages/extras/search-results",
+    "_name": "_f69fe5f2"
+  },
+  {
+    "name": "extras-sitemap___fr",
+    "path": "/fr/extras/sitemap",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\sitemap.vue",
+    "chunkName": "pages/extras/sitemap",
+    "_name": "_1cddb46f"
+  },
+  {
+    "name": "extras-starter___fr",
+    "path": "/fr/extras/starter",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\starter.vue",
+    "chunkName": "pages/extras/starter",
+    "_name": "_5a9bcb49"
+  },
+  {
+    "name": "extras-timeline___fr",
+    "path": "/fr/extras/timeline",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\extras\\\\timeline.vue",
+    "chunkName": "pages/extras/timeline",
+    "_name": "_1755baf7"
+  },
+  {
+    "name": "forms-advanced___fr",
+    "path": "/fr/forms/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\advanced.vue",
+    "chunkName": "pages/forms/advanced",
+    "_name": "_6e893bce"
+  },
+  {
+    "name": "forms-elements___fr",
+    "path": "/fr/forms/elements",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\elements.vue",
+    "chunkName": "pages/forms/elements",
+    "_name": "_af9fbbba"
+  },
+  {
+    "name": "forms-file-uploads___fr",
+    "path": "/fr/forms/file-uploads",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\file-uploads.vue",
+    "chunkName": "pages/forms/file-uploads",
+    "_name": "_20915d26"
+  },
+  {
+    "name": "forms-mask___fr",
+    "path": "/fr/forms/mask",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\mask.vue",
+    "chunkName": "pages/forms/mask",
+    "_name": "_2adee0d0"
+  },
+  {
+    "name": "forms-quill___fr",
+    "path": "/fr/forms/quill",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\quill.vue",
+    "chunkName": "pages/forms/quill",
+    "_name": "_6babb4ee"
+  },
+  {
+    "name": "forms-validation___fr",
+    "path": "/fr/forms/validation",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\validation.vue",
+    "chunkName": "pages/forms/validation",
+    "_name": "_3eaa38b6"
+  },
+  {
+    "name": "forms-wizard___fr",
+    "path": "/fr/forms/wizard",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\forms\\\\wizard.vue",
+    "chunkName": "pages/forms/wizard",
+    "_name": "_227a7cd2"
+  },
+  {
+    "name": "icons-boxicons___fr",
+    "path": "/fr/icons/boxicons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\boxicons.vue",
+    "chunkName": "pages/icons/boxicons",
+    "_name": "_c662ddf4"
+  },
+  {
+    "name": "icons-data-fontawesome___fr",
+    "path": "/fr/icons/data-fontawesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-fontawesome.js",
+    "chunkName": "pages/icons/data-fontawesome",
+    "_name": "_776363b2"
+  },
+  {
+    "name": "icons-data-material___fr",
+    "path": "/fr/icons/data-material",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-material.js",
+    "chunkName": "pages/icons/data-material",
+    "_name": "_2b959c0c"
+  },
+  {
+    "name": "icons-data-remix___fr",
+    "path": "/fr/icons/data-remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\data-remix.js",
+    "chunkName": "pages/icons/data-remix",
+    "_name": "_f2db0a1c"
+  },
+  {
+    "name": "icons-feather___fr",
+    "path": "/fr/icons/feather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\feather.vue",
+    "chunkName": "pages/icons/feather",
+    "_name": "_c0ff27c8"
+  },
+  {
+    "name": "icons-font-awesome___fr",
+    "path": "/fr/icons/font-awesome",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\font-awesome.vue",
+    "chunkName": "pages/icons/font-awesome",
+    "_name": "_a939b988"
+  },
+  {
+    "name": "icons-mdi___fr",
+    "path": "/fr/icons/mdi",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\mdi.vue",
+    "chunkName": "pages/icons/mdi",
+    "_name": "_1a13022b"
+  },
+  {
+    "name": "icons-remix___fr",
+    "path": "/fr/icons/remix",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\remix.vue",
+    "chunkName": "pages/icons/remix",
+    "_name": "_66d58c02"
+  },
+  {
+    "name": "icons-weather___fr",
+    "path": "/fr/icons/weather",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\icons\\\\weather.vue",
+    "chunkName": "pages/icons/weather",
+    "_name": "_fa9f6a26"
+  },
+  {
+    "name": "maps-google___fr",
+    "path": "/fr/maps/google",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\maps\\\\google.vue",
+    "chunkName": "pages/maps/google",
+    "_name": "_aa9e153a"
+  },
+  {
+    "name": "tables-advanced___fr",
+    "path": "/fr/tables/advanced",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\index.vue",
+    "chunkName": "pages/tables/advanced/index",
+    "_name": "_2034b068"
+  },
+  {
+    "name": "tables-basic___fr",
+    "path": "/fr/tables/basic",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\basic.vue",
+    "chunkName": "pages/tables/basic",
+    "_name": "_4b161ab4"
+  },
+  {
+    "name": "task-detail___fr",
+    "path": "/fr/task/detail",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\detail.vue",
+    "chunkName": "pages/task/detail",
+    "_name": "_24eb1d69"
+  },
+  {
+    "name": "task-kanban___fr",
+    "path": "/fr/task/kanban",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\index.vue",
+    "chunkName": "pages/task/kanban/index",
+    "_name": "_864c075a"
+  },
+  {
+    "name": "task-list___fr",
+    "path": "/fr/task/list",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\list.vue",
+    "chunkName": "pages/task/list",
+    "_name": "_23c18736"
+  },
+  {
+    "name": "ui-avatars___fr",
+    "path": "/fr/ui/avatars",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\avatars.vue",
+    "chunkName": "pages/ui/avatars",
+    "_name": "_18748d3a"
+  },
+  {
+    "name": "ui-buttons___fr",
+    "path": "/fr/ui/buttons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\buttons.vue",
+    "chunkName": "pages/ui/buttons",
+    "_name": "_7339132a"
+  },
+  {
+    "name": "ui-cards___fr",
+    "path": "/fr/ui/cards",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\cards.vue",
+    "chunkName": "pages/ui/cards",
+    "_name": "_10b3aa4c"
+  },
+  {
+    "name": "ui-carousel___fr",
+    "path": "/fr/ui/carousel",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\carousel.vue",
+    "chunkName": "pages/ui/carousel",
+    "_name": "_220166f2"
+  },
+  {
+    "name": "ui-dropdowns___fr",
+    "path": "/fr/ui/dropdowns",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\dropdowns.vue",
+    "chunkName": "pages/ui/dropdowns",
+    "_name": "_41ebed2a"
+  },
+  {
+    "name": "ui-general___fr",
+    "path": "/fr/ui/general",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\general.vue",
+    "chunkName": "pages/ui/general",
+    "_name": "_0f6e5111"
+  },
+  {
+    "name": "ui-grid___fr",
+    "path": "/fr/ui/grid",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\grid.vue",
+    "chunkName": "pages/ui/grid",
+    "_name": "_1c20b2ed"
+  },
+  {
+    "name": "ui-images___fr",
+    "path": "/fr/ui/images",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\images.vue",
+    "chunkName": "pages/ui/images",
+    "_name": "_5735f95f"
+  },
+  {
+    "name": "ui-list-group___fr",
+    "path": "/fr/ui/list-group",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\list-group.vue",
+    "chunkName": "pages/ui/list-group",
+    "_name": "_376437f7"
+  },
+  {
+    "name": "ui-modals___fr",
+    "path": "/fr/ui/modals",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\modals.vue",
+    "chunkName": "pages/ui/modals",
+    "_name": "_5714ab4d"
+  },
+  {
+    "name": "ui-notifications___fr",
+    "path": "/fr/ui/notifications",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\notifications.vue",
+    "chunkName": "pages/ui/notifications",
+    "_name": "_dc1aa75e"
+  },
+  {
+    "name": "ui-portlets___fr",
+    "path": "/fr/ui/portlets",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\portlets.vue",
+    "chunkName": "pages/ui/portlets",
+    "_name": "_2953af40"
+  },
+  {
+    "name": "ui-progress___fr",
+    "path": "/fr/ui/progress",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\progress.vue",
+    "chunkName": "pages/ui/progress",
+    "_name": "_997f0258"
+  },
+  {
+    "name": "ui-ribbons___fr",
+    "path": "/fr/ui/ribbons",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\ribbons.vue",
+    "chunkName": "pages/ui/ribbons",
+    "_name": "_d92407f4"
+  },
+  {
+    "name": "ui-spinners___fr",
+    "path": "/fr/ui/spinners",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\spinners.vue",
+    "chunkName": "pages/ui/spinners",
+    "_name": "_5378dfa1"
+  },
+  {
+    "name": "ui-tabs-accordions___fr",
+    "path": "/fr/ui/tabs-accordions",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tabs-accordions.vue",
+    "chunkName": "pages/ui/tabs-accordions",
+    "_name": "_151bfffa"
+  },
+  {
+    "name": "ui-tooltips-popovers___fr",
+    "path": "/fr/ui/tooltips-popovers",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\tooltips-popovers.vue",
+    "chunkName": "pages/ui/tooltips-popovers",
+    "_name": "_e8035f98"
+  },
+  {
+    "name": "ui-typography___fr",
+    "path": "/fr/ui/typography",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\typography.vue",
+    "chunkName": "pages/ui/typography",
+    "_name": "_1fccf916"
+  },
+  {
+    "name": "ui-video___fr",
+    "path": "/fr/ui/video",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ui\\\\video.vue",
+    "chunkName": "pages/ui/video",
+    "_name": "_6db68b64"
+  },
+  {
+    "name": "widgets-data___fr",
+    "path": "/fr/widgets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\widgets\\\\data.js",
+    "chunkName": "pages/widgets/data",
+    "_name": "_6906038e"
+  },
+  {
+    "name": "tables-advanced-data___en",
+    "path": "/tables/advanced/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_7e53a78b"
+  },
+  {
+    "name": "task-kanban-data___en",
+    "path": "/task/kanban/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_cdbe1b94"
+  },
+  {
+    "name": "apps-calendar-data-calendar___ar",
+    "path": "/ar/apps/calendar/data-calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_552ad601"
+  },
+  {
+    "name": "apps-chat-data___ar",
+    "path": "/ar/apps/chat/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_579212b0"
+  },
+  {
+    "name": "apps-companies-data___ar",
+    "path": "/ar/apps/companies/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\data.js",
+    "chunkName": "pages/apps/companies/data",
+    "_name": "_6f630b02"
+  },
+  {
+    "name": "apps-tickets-data___ar",
+    "path": "/ar/apps/tickets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\data.js",
+    "chunkName": "pages/apps/tickets/data",
+    "_name": "_3c9f4a33"
+  },
+  {
+    "name": "charts-apex-data___ar",
+    "path": "/ar/charts/apex/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_56c0529b"
+  },
+  {
+    "name": "charts-c3-data___ar",
+    "path": "/ar/charts/c3/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_af9ec966"
+  },
+  {
+    "name": "charts-chartist-data___ar",
+    "path": "/ar/charts/chartist/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_2bbb5b11"
+  },
+  {
+    "name": "charts-chartjs-BarChart___ar",
+    "path": "/ar/charts/chartjs/BarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_4e2c589a"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___ar",
+    "path": "/ar/charts/chartjs/DonutChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_76cb36aa"
+  },
+  {
+    "name": "charts-chartjs-LineChart___ar",
+    "path": "/ar/charts/chartjs/LineChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_0a82a8cb"
+  },
+  {
+    "name": "charts-chartjs-PieChart___ar",
+    "path": "/ar/charts/chartjs/PieChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_0d63897e"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___ar",
+    "path": "/ar/charts/chartjs/PolarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7da897e2"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___ar",
+    "path": "/ar/charts/chartjs/RadarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3c2fc147"
+  },
+  {
+    "name": "dashboard-analytics-channels___ar",
+    "path": "/ar/dashboard/analytics/channels",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_19827415"
+  },
+  {
+    "name": "dashboard-analytics-overview___ar",
+    "path": "/ar/dashboard/analytics/overview",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_790f7d84"
+  },
+  {
+    "name": "dashboard-analytics-social-media___ar",
+    "path": "/ar/dashboard/analytics/social-media",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_30bd4d49"
+  },
+  {
+    "name": "dashboard-analytics-sources___ar",
+    "path": "/ar/dashboard/analytics/sources",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_79da79fa"
+  },
+  {
+    "name": "dashboard-analytics-users___ar",
+    "path": "/ar/dashboard/analytics/users",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_537d9e13"
+  },
+  {
+    "name": "ecommerce-customers-data___ar",
+    "path": "/ar/ecommerce/customers/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\data.js",
+    "chunkName": "pages/ecommerce/customers/data",
+    "_name": "_cec02c06"
+  },
+  {
+    "name": "ecommerce-orders-data___ar",
+    "path": "/ar/ecommerce/orders/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_93ecc17a"
+  },
+  {
+    "name": "ecommerce-products-data___ar",
+    "path": "/ar/ecommerce/products/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_2c8d0638"
+  },
+  {
+    "name": "tables-advanced-data___ar",
+    "path": "/ar/tables/advanced/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_7e53a78b"
+  },
+  {
+    "name": "task-kanban-data___ar",
+    "path": "/ar/task/kanban/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_cdbe1b94"
+  },
+  {
+    "name": "apps-calendar-data-calendar___es",
+    "path": "/es/apps/calendar/data-calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_552ad601"
+  },
+  {
+    "name": "apps-chat-data___es",
+    "path": "/es/apps/chat/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_579212b0"
+  },
+  {
+    "name": "apps-companies-data___es",
+    "path": "/es/apps/companies/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\data.js",
+    "chunkName": "pages/apps/companies/data",
+    "_name": "_6f630b02"
+  },
+  {
+    "name": "apps-tickets-data___es",
+    "path": "/es/apps/tickets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\data.js",
+    "chunkName": "pages/apps/tickets/data",
+    "_name": "_3c9f4a33"
+  },
+  {
+    "name": "charts-apex-data___es",
+    "path": "/es/charts/apex/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_56c0529b"
+  },
+  {
+    "name": "charts-c3-data___es",
+    "path": "/es/charts/c3/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_af9ec966"
+  },
+  {
+    "name": "charts-chartist-data___es",
+    "path": "/es/charts/chartist/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_2bbb5b11"
+  },
+  {
+    "name": "charts-chartjs-BarChart___es",
+    "path": "/es/charts/chartjs/BarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_4e2c589a"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___es",
+    "path": "/es/charts/chartjs/DonutChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_76cb36aa"
+  },
+  {
+    "name": "charts-chartjs-LineChart___es",
+    "path": "/es/charts/chartjs/LineChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_0a82a8cb"
+  },
+  {
+    "name": "charts-chartjs-PieChart___es",
+    "path": "/es/charts/chartjs/PieChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_0d63897e"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___es",
+    "path": "/es/charts/chartjs/PolarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7da897e2"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___es",
+    "path": "/es/charts/chartjs/RadarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3c2fc147"
+  },
+  {
+    "name": "dashboard-analytics-channels___es",
+    "path": "/es/dashboard/analytics/channels",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_19827415"
+  },
+  {
+    "name": "dashboard-analytics-overview___es",
+    "path": "/es/dashboard/analytics/overview",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_790f7d84"
+  },
+  {
+    "name": "dashboard-analytics-social-media___es",
+    "path": "/es/dashboard/analytics/social-media",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_30bd4d49"
+  },
+  {
+    "name": "dashboard-analytics-sources___es",
+    "path": "/es/dashboard/analytics/sources",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_79da79fa"
+  },
+  {
+    "name": "dashboard-analytics-users___es",
+    "path": "/es/dashboard/analytics/users",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_537d9e13"
+  },
+  {
+    "name": "ecommerce-customers-data___es",
+    "path": "/es/ecommerce/customers/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\data.js",
+    "chunkName": "pages/ecommerce/customers/data",
+    "_name": "_cec02c06"
+  },
+  {
+    "name": "ecommerce-orders-data___es",
+    "path": "/es/ecommerce/orders/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_93ecc17a"
+  },
+  {
+    "name": "ecommerce-products-data___es",
+    "path": "/es/ecommerce/products/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_2c8d0638"
+  },
+  {
+    "name": "tables-advanced-data___es",
+    "path": "/es/tables/advanced/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_7e53a78b"
+  },
+  {
+    "name": "task-kanban-data___es",
+    "path": "/es/task/kanban/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_cdbe1b94"
+  },
+  {
+    "name": "apps-calendar-data-calendar___fr",
+    "path": "/fr/apps/calendar/data-calendar",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\calendar\\\\data-calendar.js",
+    "chunkName": "pages/apps/calendar/data-calendar",
+    "_name": "_552ad601"
+  },
+  {
+    "name": "apps-chat-data___fr",
+    "path": "/fr/apps/chat/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\chat\\\\data.js",
+    "chunkName": "pages/apps/chat/data",
+    "_name": "_579212b0"
+  },
+  {
+    "name": "apps-companies-data___fr",
+    "path": "/fr/apps/companies/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\companies\\\\data.js",
+    "chunkName": "pages/apps/companies/data",
+    "_name": "_6f630b02"
+  },
+  {
+    "name": "apps-tickets-data___fr",
+    "path": "/fr/apps/tickets/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\apps\\\\tickets\\\\data.js",
+    "chunkName": "pages/apps/tickets/data",
+    "_name": "_3c9f4a33"
+  },
+  {
+    "name": "charts-apex-data___fr",
+    "path": "/fr/charts/apex/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\apex\\\\data.js",
+    "chunkName": "pages/charts/apex/data",
+    "_name": "_56c0529b"
+  },
+  {
+    "name": "charts-c3-data___fr",
+    "path": "/fr/charts/c3/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\c3\\\\data.js",
+    "chunkName": "pages/charts/c3/data",
+    "_name": "_af9ec966"
+  },
+  {
+    "name": "charts-chartist-data___fr",
+    "path": "/fr/charts/chartist/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartist\\\\data.js",
+    "chunkName": "pages/charts/chartist/data",
+    "_name": "_2bbb5b11"
+  },
+  {
+    "name": "charts-chartjs-BarChart___fr",
+    "path": "/fr/charts/chartjs/BarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\BarChart.vue",
+    "chunkName": "pages/charts/chartjs/BarChart",
+    "_name": "_4e2c589a"
+  },
+  {
+    "name": "charts-chartjs-DonutChart___fr",
+    "path": "/fr/charts/chartjs/DonutChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\DonutChart.vue",
+    "chunkName": "pages/charts/chartjs/DonutChart",
+    "_name": "_76cb36aa"
+  },
+  {
+    "name": "charts-chartjs-LineChart___fr",
+    "path": "/fr/charts/chartjs/LineChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\LineChart.vue",
+    "chunkName": "pages/charts/chartjs/LineChart",
+    "_name": "_0a82a8cb"
+  },
+  {
+    "name": "charts-chartjs-PieChart___fr",
+    "path": "/fr/charts/chartjs/PieChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PieChart.vue",
+    "chunkName": "pages/charts/chartjs/PieChart",
+    "_name": "_0d63897e"
+  },
+  {
+    "name": "charts-chartjs-PolarChart___fr",
+    "path": "/fr/charts/chartjs/PolarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\PolarChart.vue",
+    "chunkName": "pages/charts/chartjs/PolarChart",
+    "_name": "_7da897e2"
+  },
+  {
+    "name": "charts-chartjs-RadarChart___fr",
+    "path": "/fr/charts/chartjs/RadarChart",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\charts\\\\chartjs\\\\RadarChart.vue",
+    "chunkName": "pages/charts/chartjs/RadarChart",
+    "_name": "_3c2fc147"
+  },
+  {
+    "name": "dashboard-analytics-channels___fr",
+    "path": "/fr/dashboard/analytics/channels",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\channels.vue",
+    "chunkName": "pages/dashboard/analytics/channels",
+    "_name": "_19827415"
+  },
+  {
+    "name": "dashboard-analytics-overview___fr",
+    "path": "/fr/dashboard/analytics/overview",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\overview.vue",
+    "chunkName": "pages/dashboard/analytics/overview",
+    "_name": "_790f7d84"
+  },
+  {
+    "name": "dashboard-analytics-social-media___fr",
+    "path": "/fr/dashboard/analytics/social-media",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\social-media.vue",
+    "chunkName": "pages/dashboard/analytics/social-media",
+    "_name": "_30bd4d49"
+  },
+  {
+    "name": "dashboard-analytics-sources___fr",
+    "path": "/fr/dashboard/analytics/sources",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\sources.vue",
+    "chunkName": "pages/dashboard/analytics/sources",
+    "_name": "_79da79fa"
+  },
+  {
+    "name": "dashboard-analytics-users___fr",
+    "path": "/fr/dashboard/analytics/users",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\dashboard\\\\analytics\\\\users.vue",
+    "chunkName": "pages/dashboard/analytics/users",
+    "_name": "_537d9e13"
+  },
+  {
+    "name": "ecommerce-customers-data___fr",
+    "path": "/fr/ecommerce/customers/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\customers\\\\data.js",
+    "chunkName": "pages/ecommerce/customers/data",
+    "_name": "_cec02c06"
+  },
+  {
+    "name": "ecommerce-orders-data___fr",
+    "path": "/fr/ecommerce/orders/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\orders\\\\data.js",
+    "chunkName": "pages/ecommerce/orders/data",
+    "_name": "_93ecc17a"
+  },
+  {
+    "name": "ecommerce-products-data___fr",
+    "path": "/fr/ecommerce/products/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\products\\\\data.js",
+    "chunkName": "pages/ecommerce/products/data",
+    "_name": "_2c8d0638"
+  },
+  {
+    "name": "tables-advanced-data___fr",
+    "path": "/fr/tables/advanced/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\tables\\\\advanced\\\\data.js",
+    "chunkName": "pages/tables/advanced/data",
+    "_name": "_7e53a78b"
+  },
+  {
+    "name": "task-kanban-data___fr",
+    "path": "/fr/task/kanban/data",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\task\\\\kanban\\\\data.js",
+    "chunkName": "pages/task/kanban/data",
+    "_name": "_cdbe1b94"
+  },
+  {
+    "name": "ecommerce-product-detail-id___ar",
+    "path": "/ar/ecommerce/product-detail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_3cc62cbe"
+  },
+  {
+    "name": "email-reademail-id___ar",
+    "path": "/ar/email/reademail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_21bef666"
+  },
+  {
+    "name": "ecommerce-product-detail-id___es",
+    "path": "/es/ecommerce/product-detail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_3cc62cbe"
+  },
+  {
+    "name": "email-reademail-id___es",
+    "path": "/es/email/reademail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_21bef666"
+  },
+  {
+    "name": "ecommerce-product-detail-id___fr",
+    "path": "/fr/ecommerce/product-detail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_3cc62cbe"
+  },
+  {
+    "name": "email-reademail-id___fr",
+    "path": "/fr/email/reademail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_21bef666"
+  },
+  {
+    "name": "ecommerce-product-detail-id___en",
+    "path": "/ecommerce/product-detail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\ecommerce\\\\product-detail\\\\_id.vue",
+    "chunkName": "pages/ecommerce/product-detail/_id",
+    "_name": "_3cc62cbe"
+  },
+  {
+    "name": "email-reademail-id___en",
+    "path": "/email/reademail/:id?",
+    "component": "C:\\\\laragon\\\\www\\\\e-service\\\\web\\\\pages\\\\email\\\\reademail\\\\_id.vue",
+    "chunkName": "pages/email/reademail/_id",
+    "_name": "_21bef666"
+  },
+  {
+    "path": "/",
+    "component": "~/pages/dashboard/sales/index.vue",
+    "_name": "_7a6dbb4c"
+  }
+]

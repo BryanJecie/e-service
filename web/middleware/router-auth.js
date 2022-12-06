@@ -1,4 +1,5 @@
 export default function ({ store, route, redirect }) {
+
   if (process.env.auth === "firebase") {
     // Check if auth is required on this route
     // (including nested routes).
